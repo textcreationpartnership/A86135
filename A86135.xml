@@ -1,0 +1,653 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Trap-pannnians aias [sic] trap-pallians alias trap-tonians. A detection of some unparall'd plots, attempts and perpetrations practised of a knot of knaves, in and about the city of London. For the apprehending and mulcting of tjhose [sic] whom (by their conivance) the cunning courtezans of the town consent to &amp;c. to the disgrace impoverishment and utter ruin of many honest and eminent men in and about London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86135</idno>
+            <idno type="STC">Wing H126</idno>
+            <idno type="STC">Thomason E708_10</idno>
+            <idno type="STC">ESTC R207151</idno>
+            <idno type="EEBO-CITATION">99866222</idno>
+            <idno type="PROQUEST">99866222</idno>
+            <idno type="VID">118487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118487)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E708[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Trap-pannnians aias [sic] trap-pallians alias trap-tonians. A detection of some unparall'd plots, attempts and perpetrations practised of a knot of knaves, in and about the city of London. For the apprehending and mulcting of tjhose [sic] whom (by their conivance) the cunning courtezans of the town consent to &amp;c. to the disgrace impoverishment and utter ruin of many honest and eminent men in and about London.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Partly in verse.</note>
+                  <note>Annotation on Thomason copy: "August.2.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prostitution --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:118487:1" rendition="simple:additions"/>
+            <head>THE <hi>Trap-Pannnians</hi> AIAS <hi>Trap-Pallians</hi> ALIAS <hi>Trap-Tonians.</hi>
+            </head>
+            <p>A Detection of ſome unparall'd Plots, Attempts and Perpetrati<g ref="char:EOLhyphen"/>ons practiſed by a knot of Knaves, in and about the City of LONDON.</p>
+            <p>For the Apprehending and Mulcting of thoſe whom (by their conivance) the cunning Courtezans of the Town conſent to &amp;c. to the Diſgrace Impoveriſhment and utter ruin of many honeſt and eminent men in and about <hi>London.</hi>
+            </p>
+            <lg>
+               <l>OLbyon's <hi>another</hi> Aegypt; Thames <hi>like</hi> Nile</l>
+               <l>
+                  <hi>Gives monſtruous births, Heaven weeps while Furies ſmile,</hi>
+               </l>
+               <l>
+                  <hi>But now when</hi> Jove <hi>had ſheath'd the ſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd of</hi> Mars,</l>
+               <l>
+                  <hi>See; the Quain</hi> Venus <hi>broaches fiercer Wars,</hi>
+               </l>
+               <l>
+                  <hi>A crew of curſed ones (to pocket Treaſure)</hi>
+               </l>
+               <l>
+                  <hi>Obſtruct the onſets of the</hi> Paphian <hi>Pleaſure,</hi>
+               </l>
+               <l>
+                  <hi>And like uncharitable envious Elves</hi>
+               </l>
+               <l>
+                  <hi>Will have none to get Baſtards but themſelves;</hi>
+               </l>
+               <l>
+                  <hi>Judg then to what a paſſe the world would come,</hi>
+               </l>
+               <l>
+                  <hi>Should thoſe be ſuffer'd (thus) to ſtich the womb</hi>
+               </l>
+               <l>
+                  <hi>Of Nature up — and by ſiniſter Tricks</hi>
+               </l>
+               <l>
+                  <hi>Maul every man that loves a Meretri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi>
+               </l>
+               <l>
+                  <hi>The Pions Act which th'warts this mortall ſin,</hi>
+               </l>
+               <l>
+                  <hi>One would conceit were a fubſtantiall Gin;</hi>
+               </l>
+               <l>
+                  <hi>To manackle theſe Fleſh-Flies—muſt Sir</hi> John</l>
+               <l>
+                  <hi>Mounted on's Mare, feare ſome</hi> Trap-Pan'ion</l>
+               <l>
+                  <hi>Will force him from the Saddle, and diſcleak him,</hi>
+               </l>
+               <l>
+                  <hi>Amerce him. Awe him, flout him, threat to cheek him;</hi>
+               </l>
+               <l>
+                  <hi>'Tis not to be endur'd; ſpeak my ſpruce Cits,</hi>
+               </l>
+               <l>
+                  <hi>Is not the ſauce ſowre to your luſcious Bits?</hi>
+               </l>
+               <l>
+                  <hi>You'l anſwer I, I'me ſure, then take this Charm,</hi>
+               </l>
+               <l>
+                  <hi>Which can protect you from all future harme.</hi>
+               </l>
+            </lg>
+            <p>THe Devill never ſhew'd himſelfe in his colours till this pre<g ref="char:EOLhyphen"/>ſent Age, hither to he hath been thought but <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:118487:2"/>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id eſt,</hi> a God of Flies, but now he manifeſts himſelf a true <hi>Apollion, id eſt,</hi> a potent deſtroyer; Piety was never more profeſt, nor never leſſe practi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d then in our time, we were never unhap<g ref="char:EOLhyphen"/>py, til we aſſumed the ſirname <hi>Happy,</hi> never licentious til we laid claime to a thorow Reformation; ſo true is the old Adage, <hi>All covet all looſe,</hi> it is now grown paſt the power of the Palp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t (though from thence the fire was firſt flung abroad) to doe either good or harme in the matter, for he that has moſt power to be held the beſt man, is no new thing, nor need it ſeeme ſtrange, if the Diſcords of a Nation or City, uſed to be healed by Accommodations, bee now decided by the Sword ſince Wars may lawfully be. Entered into, not ſo much for the Curſe as the Pay, which is not to be wondered at, for Ex<g ref="char:EOLhyphen"/>amples doe not ſtoppe where they began, but though they get in at a little cranny, make themſelves a wide breach to come out at, and when once the Rule is forſaken, wee runne amaine downe the hill<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, nor need any man think that dishoneſt in himſelfe, which hath been profitable to ano<g ref="char:EOLhyphen"/>her.</p>
+            <p>Amongſt the many Abſurdities and unparall'd Monſtrafi<g ref="char:EOLhyphen"/>ties (begot between <hi>Amſterdam</hi> and <hi>Geneva, Munſter</hi> and <hi>Mecha, Edenburgh</hi> and <hi>LONDON,</hi> and the Devill and a <hi>Preſbiter)</hi> which theſe late times have been burthened with, there is not one of thoſe Chimeras to be compared with a new Gorgonicall Gerion, a novell Sect (certainely the ſeed of thoſe Saduces (of old) that believed no Re<g ref="char:EOLhyphen"/>ſurrection neither Angels or Devills) ſtarted up) like <hi>Cadmus</hi>-Twinnes) on the ſudden amongſt us (armed at all points) to eaſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te thoſe crimes which themſelves more doat upon then an old City <hi>Cuskold</hi> on his young Cockatrice, I mean the fine Fraternity called <hi>Trap-Panuiant, Trap-Pal<g ref="char:EOLhyphen"/>lians</hi> and <hi>Trap Tonians,</hi> names (all of them) very pertinent to the Natures and Qualifications of the <hi>Sport-Spoylers,</hi> theſe <hi>Mercinary-Murtherers</hi> of naturall delights, and ſworne ene<g ref="char:EOLhyphen"/>mies to the <hi>Recreation</hi> of the <hi>Chine,</hi> who (moſt abhorred Catiff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s) would not feare for a petty ſum to pull <hi>Venus</hi> ſmock over her eares, and to detect <hi>Jupiter</hi> and <hi>Io, Bacchus</hi>
+               <pb n="3" facs="tcp:118487:2"/>and his <hi>Erigone, Phaebus</hi> and his <hi>Daphne,</hi> or <hi>Pluto</hi> (with ano<g ref="char:EOLhyphen"/>ther mans wife) his <hi>Euricide</hi> in the act of procreation; and deliver them over to the ſecular Magiſtrate, <hi>in ordine ad ſpiritualia.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>Curſe y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em thou king of hearts (fair</hi> Venus <hi>ſon)</hi>
+               </l>
+               <l>
+                  <hi>Or thy beſt Orgies are for ever gone,</hi>
+               </l>
+               <l>
+                  <hi>Theſe ſons of ſloath and Night, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> interpoſe</hi>
+               </l>
+               <l>
+                  <hi>(Heaping up anguiſh, and inceſſant woes)</hi>
+               </l>
+               <l>
+                  <hi>On thy devouteſt Votaries, who are</hi>
+               </l>
+               <l>
+                  <hi>The talleſt</hi> Souldiers <hi>in thy peacefull Warre;</hi>
+               </l>
+               <l>
+                  <hi>The</hi> London <hi>Cit who knowes no happineſſe</hi>
+               </l>
+               <l>
+                  <hi>Sav's Fathers Portion, and his Miſtreſſe Dreſſe,</hi>
+               </l>
+               <l>
+                  <hi>Who kiſſes as when well ſet bones do crack,</hi>
+               </l>
+               <l>
+                  <hi>And knowes no Phraſe ſave this; What do you lack?</hi>
+               </l>
+               <l>
+                  <hi>Whoſe Goſpell-Preiſt is ſome well-gifted</hi> Weaver,</l>
+               <l>
+                  <hi>and pins his ſonle on</hi> Burton, Dod <hi>and</hi> Cleaver,</l>
+               <l>
+                  <hi>He, he, I ſay cannot (by ſtealth) carowſe</hi>
+               </l>
+               <l>
+                  <hi>With, spainted female in ſome Brothel-houſe,</hi>
+               </l>
+               <l>
+                  <hi>Nor dayly with her, on the much-uſ'd bed,</hi>
+               </l>
+               <l>
+                  <hi>But hee's aſſaulted, ſcarr'd, and captive led,</hi>
+               </l>
+               <l>
+                  <hi>As a rude Non conformiſt 'gainſt the Act,</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nleſſe his bleeding Baggs excuſe the Fact;</hi>
+               </l>
+               <l>
+                  <hi>The dauntleſſe</hi> Myrmidon, <hi>the man of Iron,</hi>
+               </l>
+               <l>
+                  <hi>Whom Walls of braſſe, and Ribs of ſteele inviron,</hi>
+               </l>
+               <l>
+                  <hi>The Briſtles of whoſe Chin reſemble well</hi>
+               </l>
+               <l>
+                  <hi>A grove of Pikes (by whom five Popes have fell)</hi>
+               </l>
+               <l>
+                  <hi>Cannot create a time of ſafety, when</hi>
+               </l>
+               <l>
+                  <hi>He may exonerate like other men,</hi>
+               </l>
+               <l>
+                  <hi>But hee's ſurpriſ'd, and is forc'd to pay</hi>
+               </l>
+               <l>
+                  <hi>The Muſter-money, which but yeſterday</hi>
+               </l>
+               <l>
+                  <hi>Furniſh't his fiſt; the Black-coat that doth writht</hi>
+               </l>
+               <l>
+                  <hi>His meagre face d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>barr'd of Tenths and Tythe.</hi>
+               </l>
+               <l>
+                  <hi>Who now on his Thumbs ends may ſing and whiſtle</hi>
+               </l>
+               <l>
+                  <hi>(Thanks to the</hi> Talmud, <hi>and the Scottiſh Thiſtle)</hi>
+               </l>
+               <pb n="4" facs="tcp:118487:3"/>
+               <l>
+                  <hi>He, he, I ſay whoſe Holy-water (ſpent</hi>
+               </l>
+               <l>
+                  <hi>In banefull waſts) hath borne down</hi> David, <hi>Tent.</hi>
+               </l>
+               <l>
+                  <hi>Dr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wning the glories of a potent Nation,</hi>
+               </l>
+               <l>
+                  <hi>Now feares to frisk it in the quondam faſhion,</hi>
+               </l>
+               <l>
+                  <hi>Dreading a ſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd or dagger at his throat</hi>
+               </l>
+               <l>
+                  <hi>(Since there's no priviledge attends his Coat)</hi>
+               </l>
+               <l>
+                  <hi>To be led Captive by ſome pimping Beadle.</hi>
+               </l>
+               <l>
+                  <hi>'Fore ſome Commander, who will ſoon un riddle</hi>
+               </l>
+               <l>
+                  <hi>His</hi> Metaphiſick <hi>ſence, and twiſt a Rope</hi>
+               </l>
+               <l>
+                  <hi>(Maulgre a diſpenſation from the Pope)</hi>
+               </l>
+               <l>
+                  <hi>Shall gag him to Eternity, no Ayd</hi>
+               </l>
+               <l>
+                  <hi>From</hi> Scotus, <hi>or</hi> Aquinas, <hi>or the</hi> Mayd</l>
+               <l>
+                  <hi>Faire</hi> Hyldegard; <hi>no Schoolman can reſiſt,</hi>
+               </l>
+               <l>
+                  <hi>But he muſt ſuffer as a Caſuiſt.</hi>
+               </l>
+               <l>
+                  <hi>The fame-eraz'd Peere, who took ſuch pain and toile</hi>
+               </l>
+               <l>
+                  <hi>'T Eclipſe his Soveraigns glory, and beguile</hi>
+               </l>
+               <l>
+                  <hi>Himſelfe into a happineſſe, unknown,</hi>
+               </l>
+               <l>
+                  <hi>which his brave Anceſtors nere wiſht to owne,</hi>
+               </l>
+               <l>
+                  <hi>And now is layd aſide like ſome gay thing,</hi>
+               </l>
+               <l>
+                  <hi>Not fit for gaze, when there's no Court nor King,</hi>
+               </l>
+               <l>
+                  <hi>Who ſhortly ſhall be faſhion'd on the Forge,</hi>
+               </l>
+               <l>
+                  <hi>Maulgre his Azure Ribbon and his George;</hi>
+               </l>
+               <l>
+                  <hi>He too (alas) if he be tane upon her,</hi>
+               </l>
+               <l>
+                  <hi>Finds no protection from his forfeit honour,</hi>
+               </l>
+               <l>
+                  <hi>A Petty Juſtice of the Peace and Corum,</hi>
+               </l>
+               <l>
+                  <hi>Shall ſend his honour unto harum horum.</hi>
+               </l>
+               <l>
+                  <hi>The Knight who'l needs be merry once a quarter,</hi>
+               </l>
+               <l>
+                  <hi>Yea though he mortgage both his Sword and Garter,</hi>
+               </l>
+               <l>
+                  <hi>And tile not for, but with ſome City Lady,</hi>
+               </l>
+               <l>
+                  <hi>(Since dyldoes ne'r will make her ſpouſe a daddy)</hi>
+               </l>
+               <l>
+                  <hi>He, he, who bath deſtroyed ſo many ſcarfes,</hi>
+               </l>
+               <l>
+                  <hi>Kil'd ſuch ſtrange Monſters, paſſ'd ſo many wharfes,</hi>
+               </l>
+               <l>
+                  <hi>(Although ſo ſore enchansed, when hee's tan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi>
+               </l>
+               <l>
+                  <hi>Struggles in Fetters like Levi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>han,</hi>
+               </l>
+               <l>And either muſt compound <hi>with thoſe that ſweak him,</hi>
+               </l>
+               <pb n="5" facs="tcp:118487:3"/>
+               <l>
+                  <hi>Or</hi> read the Act there, <hi>let a halter choak him.</hi>
+               </l>
+               <l>
+                  <hi>The cunning</hi> Lawyer, <hi>who</hi> Juſtinian <hi>traces,</hi>
+               </l>
+               <l>
+                  <hi>Cracking whole Kingdomes with his Pleas and Caſes,</hi>
+               </l>
+               <l>
+                  <hi>Whoſe Conſcience might create another Hell,</hi>
+               </l>
+               <l>
+                  <hi>(Where</hi> Ployden, Cook, <hi>and</hi> Littleton <hi>might dwell,</hi>
+               </l>
+               <l>
+                  <hi>Were they not in a Manſion of their owne)</hi>
+               </l>
+               <l>
+                  <hi>Whoſe function ſickneſſe, and is almoſt growne</hi>
+               </l>
+               <l>
+                  <hi>fit for Pye Corner, to ſing Piggs, or ſave</hi>
+               </l>
+               <l>
+                  <hi>Roaſt meat from burning; he I ſay (poore Knave)</hi>
+               </l>
+               <l>
+                  <hi>Dares not upon his deareſt Maulkin ceaze,</hi>
+               </l>
+               <l>
+                  <hi>Though he be furniſh't with a Writ of eaſe)</hi>
+               </l>
+               <l>
+                  <hi>But hee's ejected by our brave</hi> Trap. Pannians,</l>
+               <l>
+                  <hi>Cugel'd and uſ'd like any ſcab'd Raſcallian,</hi>
+               </l>
+               <l>
+                  <hi>Vnleſſe the thing he ſo much doats upon,</hi>
+               </l>
+               <l>
+                  <hi>For which all hopes of his ſalvation</hi>
+               </l>
+               <l>
+                  <hi>Hee'd part with) glorious gold he can produce,</hi>
+               </l>
+               <l>
+                  <hi>"Gold that ſupports the Church, and makes the Stewes,</hi>
+               </l>
+               <l>
+                  <hi>"Whiter than</hi> Nuneries, <hi>or place where</hi>
+               </l>
+               <l>
+                  <hi>"Religious Auchorites ſecluded are;</hi>
+               </l>
+               <l>
+                  <hi>Nor may the witty Poor find protection</hi>
+               </l>
+               <l>
+                  <hi>From this Peſtiferous, this dire Infection,</hi>
+               </l>
+               <l>
+                  <hi>No though</hi> Apollo, <hi>and the three times three,</hi>
+               </l>
+               <l>
+                  <hi>Engage themſelv's as his ſecuritie,</hi>
+               </l>
+               <l>
+                  <hi>Vpon the ſacred Bard their impious hands</hi>
+               </l>
+               <l>
+                  <hi>They'l lay, and ſcourge him with iron wands.</hi>
+               </l>
+               <l>
+                  <hi>But ſcabberded; nor will the Rogves retire,</hi>
+               </l>
+               <l>
+                  <hi>Though he ſtrike</hi> Orpheus <hi>or</hi> Imphions <hi>Lyre,</hi>
+               </l>
+               <l>
+                  <hi>If with his (treacherous) Goddeſſe they ſurprize him,</hi>
+               </l>
+               <l>
+                  <hi>Not all his allegories can diſguiſe him,</hi>
+               </l>
+               <l>
+                  <hi>His Tropes and Figures, will (alas) not ayd him,</hi>
+               </l>
+               <l>
+                  <hi>Vnleſſe to h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r and theſe (that have betray'd him)</hi>
+               </l>
+               <l>
+                  <hi>He proſtrate what h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> very ſeldome wins,</hi>
+               </l>
+               <l>
+                  <hi>(Money't expiate his venerious ſins.)</hi>
+               </l>
+            </lg>
+            <pb n="6" facs="tcp:118487:4"/>
+            <p>Is it not a vaſt power theſe (ſeeming) ſin-haters lay claime to, and (inſooth) did they aime at their makers glory, to ſup<g ref="char:EOLhyphen"/>preſſe and erradicate thoſe crying fin of Adultery and fornica<g ref="char:EOLhyphen"/>tion, we ſhould have cauſe to prize them no leſſe then Patri<g ref="char:EOLhyphen"/>archs, and to afford them as much veneration as the ſick brain'd <hi>Vulgarre</hi> dedicated to <hi>Trinmvirate</hi> of ſedition, that threefold cord of Schiſme, <hi>Prin, Burton</hi> and <hi>Baſtwick,</hi> when they found <hi>Manumiſſion</hi> in ſpight of the Biſhops Mandates, but we know that theſe fellows ſmell no more of vertue than a Poll-Cat of Musk, as if <hi>Mintz</hi> (were he alive) ſhould impeach <hi>Martin</hi> of ſenſuality, or <hi>Rablais</hi> accuſe <hi>Aretine,</hi> and the <hi>Ovid</hi> of obſcenity, fellows whoſe fortunes are as broken, as their fronts are brazen, their manner of entrapping take thus, from him who experimentally avows it.</p>
+            <p>Three or (perhaps) ſix of theſe <hi>Trap Pannians,</hi> are given to know by their Miſtreſſe (in common) that ſuch a Knight, ſuch a Gentleman, ſuch a Citizen affects her, and is ſolicitous to enjoy her, he (ſaith ſhe) hath been very beneficial; <hi>As courteous a Cullee as ever Curtezan dandled, our leaſt of Taverne Reckonings is forty ſhillings or three pounds, Mention but a paire of Gloves, and a Gowne and Kirtle attends me, or the loſſe of a Hand kercheife, and twenty ells of Holland wait me.</hi>
+            </p>
+            <p>This Loach has ſtore of coine; you know my meaning— I will (ſeemingly, for I hate the fellows Perſon more than hel) give my conſent ſuch a day and houre in ſuch a place to meet the Beaſt with two backs, at which time you three ſhall be ab<g ref="char:EOLhyphen"/>ſconded, either under the bed in the cloſet or ſome other pri<g ref="char:EOLhyphen"/>vate place, and when the Hot-ſpur begins the onfet, I will let fall either my Busk or the Bed-ſtaffe which may ſerve for your warning peice, then ruſh upon us (one of you as my husband) and ſurprize us, I ſhall not be angry to be call'd (what I profeſs my ſelfe) <hi>Whore,</hi> nor blame the hand that bangs me, ſince the compenſation will prove ample enough, bang him Coxcombly Cit ſay they, it will be but Juſtice to draine hir purſe, or hang his
+<pb n="7" facs="tcp:118487:4"/>perſon, all things concluded on, my Inamorate has his Miſtreſſe grant to meet, but firſt he ſolemnly ſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urs not to divulge her, for ſhould her husband (a man of an anſtere and fiery temper) but have the leaſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ckling of their ſtollen imbracements, they muſt both expect certain death either by his hands or the hang<g ref="char:EOLhyphen"/>mans, feace not my ſweet (anſwers he) we will ſo carry it that no detriment ſhall happen either to thee or me, and for this free favour thou ſhalt ever command me body and ſou;l the wiſh'd day (on all hands) now arrives, the lover folds his M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe in his armes, ſporting ſo long at the brink that now he is reſolved to leap in, when (oh fatall) there appears his La<g ref="char:EOLhyphen"/>dies husband and two others with ſwords and piſtolls, who with death menacing brows threaten to diſpatch them, ſhee (good ſoule) on her knees with teares begs<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her husbands mercy but he (loading her with blows) ſeemes as if nothing may appeaſe him but blood, while her poor amazed Lover (eſteeming this as a juſt judgement of God inflicted on him as an allay to his luſt) like a p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rfect P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neteutlary implores his Ladies jealous Lord to ſpare him <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>either ſpill his blood nor expoſe him to to ſhame, &amp; in lieu of ſuch love he will gratifie him with a good ſum of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but the angry husband remains refractory, vow<g ref="char:EOLhyphen"/>ing to off <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> both his wife and the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dulterer on the altar of re<g ref="char:EOLhyphen"/>venge the Law (quoth he) ſhall take place, and therefore (my truſty freind, whom I ſhall ever honour for this aid) let us con<g ref="char:EOLhyphen"/>vey this ſtrumpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and her Letcher to the next <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtice, upon this the ſurprized couple a freſh beſetch, which m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llifying the harts of her husbands freinds they earneſtly requeſt that he will not bring his wife to publick ſhame, for (ſay they) conſider, it will redound to your diſputagement, and for the Gentleman we are confident of his ſorrow fulneſſe for his fault, and therefore let us prevail with you, accept of a ſufficient ſum, and let him returne to his houſe, this (fot their ſakes) is at length granted, the Cit (with many thanks for the favour) propoſes his watch, with all the mony in his pockets, gives bond for ſo much more, and (pray<g ref="char:EOLhyphen"/>ſing God) departed to his home. <hi>Eheu quam tenui pendeut mortalia fil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <pb n="8" facs="tcp:118487:5"/>
+            <p>Thus and thus have hundreds (Gentlemen and Mechanicks) a<g ref="char:EOLhyphen"/>bout <hi>London</hi> been lately ſerved, and (which is ſtrange) ſo preva<g ref="char:EOLhyphen"/>lent is the itching diſeaſe now grown that all the waming in the world (no though they have been informed by thoſe who have have bought the expetience at a dear rate) can deter ſome from ventring upon this Praecipice, but let us leave ſuch fooles to their juſt deſerved deſtiny, and conclude with a Satyre directed to thoſe fallacious females, who draw men into ſuch dangerous Praemunites.</p>
+            <lg>
+               <l>
+                  <hi>Pox take ye all, your qualities are much</hi>
+               </l>
+               <l>
+                  <hi>After your faces, and your faith is ſuch</hi>
+               </l>
+               <l>
+                  <hi>As are your workes. f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r what is there in you</hi>
+               </l>
+               <l>
+                  <hi>That is not counterfeit and painted too</hi>
+               </l>
+               <l>
+                  <hi>Doe your lips ope, before ye ſpeak ye lye</hi>
+               </l>
+               <l>
+                  <hi>And if ye ſigh, ye lye moſt damnably</hi>
+               </l>
+               <l>
+                  <hi>Falſe lights your eyes are, and falſe weights your eares,</hi>
+               </l>
+               <l>
+                  <hi>Your hearts falſe meaſures, and falſe pearle your teares</hi>
+               </l>
+               <l>
+                  <hi>So talk or think or look or laugh, or crie,</hi>
+               </l>
+               <l>
+                  <hi>Seeme or ſeeme not, walk, ſtand, or ſit ye lye,</hi>
+               </l>
+               <l>
+                  <hi>Nay; there's more yet your couzening of thoſe</hi>
+               </l>
+               <l>
+                  <hi>Moſt, who in you do moſt truſt repoſe</hi>
+               </l>
+               <l>
+                  <hi>Your loving moſt thoſe who do leaſt love you</hi>
+               </l>
+               <l>
+                  <hi>And chuſing to dye, rather then be true,</hi>
+               </l>
+               <l>
+                  <hi>Bluſh, bluſh, fond men and fair example take</hi>
+               </l>
+               <l>
+                  <hi>(By thoſe have been Trap-Pannian'd) how you make</hi>
+               </l>
+               <l>
+                  <hi>An idoll of a face, and tak't for granted</hi>
+               </l>
+               <l>
+                  <hi>There's no ſuch Devill as a Whore that's ſainted</hi>
+               </l>
+               <l>
+                  <hi>She thinks her wit and beauty without Peere</hi>
+               </l>
+               <l>
+                  <hi>And ore thy ſlaviſh ſoul doth dommineere</hi>
+               </l>
+               <l>
+                  <hi>Like ſome great Goddeſſe counting thou wert b<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>(As a thing mortall) only for the ſcorn</hi>
+               </l>
+               <l>
+                  <hi>Curſe on ſuch Vaſſalage, henceforth expreſſe</hi>
+               </l>
+               <l>
+                  <hi>Even in your loves, Valour and Manlineſſe.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>S.H.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
